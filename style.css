@@ -31,7 +31,7 @@ form{
     max-width: 400px;
     padding: 10px;
     border: none;
-    box-shadow:0 0 6px rgba(0, 0,0, 0);
+    box-shadow:0 0 6px rgba(0, 0,0, 0.2);
     border-radius: 5px;
     font-size: 18px;
     color: #333;
@@ -42,16 +42,23 @@ form{
     color: white;
     border: none;
     font-size: 18px;
-    box-shadow:0 0 6px rgba(0, 0,0, 0);
+    box-shadow:0 0 6px rgba(0, 0,0, 0.2);
     cursor: pointer;
     border-radius: 5px;
     margin-left: 10px;
 }
-.Search-result{
+.Search-results {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     max-width: 1200px;
     margin: 0 auto;
-
+}
+.Search-result{
+    margin-bottom: 60px;
+    width: 30%;
+    height: 100%;
+    border-radius: 5px;
+    box-shadow:0 0 6px rgba(0, 0,0, 0.2);
+    overflow: hidden;
 }
