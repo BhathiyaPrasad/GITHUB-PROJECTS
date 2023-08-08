@@ -47,4 +47,11 @@ form{
     border-radius: 5px;
     margin-left: 10px;
 }
-Search-result
+.Search-result{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
