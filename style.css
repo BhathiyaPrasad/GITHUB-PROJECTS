@@ -62,3 +62,22 @@ form{
     box-shadow:0 0 6px rgba(0, 0,0, 0.2);
     overflow: hidden;
 }
+.Search-result img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition:opacity 0.2s ease-in-out;
+}
+    
+.Search-result:hover img{
+    opacity: .8;
+}
+.Search-result a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding: 10px;
+    text-transform: capitalize;
+    text-align: center;
+}
