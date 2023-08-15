@@ -93,3 +93,15 @@ form{
     border-radius: 5px;
     /* display: none; */
 }
+
+ @media screen and (Max-width : 768px) {
+    .Search-result {
+        width: 45%;
+    }
+ }
+
+ @media screen and (Max-width : 480px) {
+    .Search-result {
+        width: 100%;
+    }
+ }
