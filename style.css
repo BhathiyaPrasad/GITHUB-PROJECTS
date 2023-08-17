@@ -57,13 +57,14 @@ form{
 .Search-result{
     margin-bottom: 60px;
     width: 30%;
-    height: 100%;
+    height: 90%;
     border-radius: 5px;
     box-shadow:0 0 6px rgba(0, 0,0, 0.2);
     overflow: hidden;
 }
 .Search-result img{
     width: 100%;
+    height: 90%;
     max-height: 90%;
     object-fit: cover;
     transition:opacity 0.2s ease-in-out;
