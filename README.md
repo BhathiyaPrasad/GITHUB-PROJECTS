@@ -5,7 +5,7 @@ This is My One of project That realated javascripts html & CSS
 
 I am going to create simple image search Web App.
 
-Edited some frontend Development
+Edited some frontend Development.
 
 Add a Image search Api from Unslpash.com
 
