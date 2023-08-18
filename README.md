@@ -1,8 +1,8 @@
 # GITHUB-PROJECTS 01
 ## Image Search Web Page
-This is My One of project That realted javascripts and html,CSS
+This is My One of project That realated javascripts html & CSS
 
-I am going to create simple image search webpage
+I am going to create simple image search Web App
 
 Edited some frontend Development
 
