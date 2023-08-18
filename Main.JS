@@ -25,6 +25,6 @@ async function searchImages() {
 
   // convert jason data into images
 
+ const results = data.results
 
-  
 }
