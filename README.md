@@ -7,7 +7,7 @@ I am going to create simple image search Web App.
 
 Edited some frontend Development.
 
-Add a Image search Api from Unslpash.com
+Add a Image search Api from Unslpash.com.
 
 And create variables for excute
 
