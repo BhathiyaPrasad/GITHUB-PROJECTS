@@ -3,7 +3,7 @@
 
 This is My One of project That realated javascripts html & CSS
 
-I am going to create simple image search Web App
+I am going to create simple image search Web App.
 
 Edited some frontend Development
 
