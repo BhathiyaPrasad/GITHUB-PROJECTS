@@ -36,6 +36,9 @@ results.map((results) =>{
   image.src = result.urls.small
   image.alt =result.alt.description
   const imageLink = document.createElement('a')
+  imageLink.href = result.links.html
+  imageLink.target = "_blank"
+  imageLink.textContent = result.alt.description
 }
 )
 }
