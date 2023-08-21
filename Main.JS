@@ -26,5 +26,14 @@ async function searchImages() {
   // convert jason data into images
 
  const results = data.results
+ if (page === 1){
+  serachResults.innerHTML = ""
+ }
+results.map((results) =>{
+  const Imageapper = document.createElement('div')
+  Imageapper.classList.add("search-result")
+  const  image = document.createElement('imgs')
+  image.src = result.alt
 
+)
 }
