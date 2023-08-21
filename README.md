@@ -19,4 +19,4 @@ Created Data variable holidng the all the json format all then jason data now we
 
 Created variables and funtion for 'see more button'
 
-After the write the 
+After the write the function 
