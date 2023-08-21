@@ -33,7 +33,9 @@ results.map((results) =>{
   const Imageapper = document.createElement('div')
   Imageapper.classList.add("search-result")
   const  image = document.createElement('imgs')
-  image.src = result.alt
-
+  image.src = result.urls.small
+  image.alt =result.alt.description
+  const imageLink = document.createElement('a')
+}
 )
 }
