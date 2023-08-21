@@ -27,7 +27,7 @@ form{
     margin-bottom: 60px;
 }
 #search-input{
-    width:400px;
+    width:50%;
     max-width: 400px;
     padding: 10px;
     border: none;
@@ -93,3 +93,18 @@ form{
     border-radius: 5px;
     /* display: none; */
 }
+
+ @media screen and (Max-width : 768px) {
+    .Search-result {
+        padding: 20px;
+    }
+    .Search-result {
+        width: 45%;
+    }
+ }
+
+ @media screen and (Max-width : 480px) {
+    .Search-result {
+        width: 100%;
+    }
+ }
