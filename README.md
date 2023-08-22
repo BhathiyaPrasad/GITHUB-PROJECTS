@@ -21,6 +21,3 @@ Created variables and funtion for 'see more button'
 
 After the write the function for images appear after clicking the "see more button"
 
-Today Added three Serial number reports
-
-first  one called "allreport" will return the available and
