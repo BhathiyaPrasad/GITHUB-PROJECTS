@@ -91,7 +91,7 @@ form{
     display:block ;
     margin: 30px auto;
     border-radius: 5px;
-    /* display: none; */
+     display: none; 
 }
 
  @media screen and (Max-width : 768px) {
