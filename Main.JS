@@ -39,6 +39,14 @@ results.map((result) =>{
   imageLink.href = result.links.html
   imageLink.target = "_blank"
   imageLink.textContent = result.alt.description
+
+  Imageapper.appendChild(image)
+  Imageapper.appendChild(imageLink)
+  Imageapper.appendChild(Imageapper)
 }
-)
+);
+page++ 
+if (page > 1){
+  showMore.style.display = "block"
+}
 }
