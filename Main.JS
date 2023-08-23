@@ -29,7 +29,7 @@ async function searchImages() {
  if (page === 1){
   serachResults.innerHTML = ""
  }
-results.map((results) =>{
+results.map((result) =>{
   const Imageapper = document.createElement('div')
   Imageapper.classList.add("search-result")
   const  image = document.createElement('imgs')
