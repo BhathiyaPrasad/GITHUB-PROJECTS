@@ -23,7 +23,7 @@ async function searchImages() {
   const response = await fetch(url);
   const data = await response.jason();
 
-  // convert jason data into images
+  // Convert jason data into images
 
  const results = data.results
  if (page === 1){
