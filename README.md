@@ -20,5 +20,5 @@ Created Data variable holidng the all the json format all then jason data now we
 Created variables and funtion for 'see more button'
 
 After the write the function for images appear after clicking the "see more-button"
-Z
+
 
